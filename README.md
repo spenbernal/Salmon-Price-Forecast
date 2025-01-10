@@ -71,7 +71,7 @@ For short-term forecasting (up to 12 months), FB Prophet or SARIMA are suitable 
 
 This project demonstrates how different forecasting approaches can yield varied results based on the time horizon and nature of the data. By comparing time series models and regression-based techniques, I provide actionable insights into the best methods for predicting salmon prices.
 
-Next Steps
+## Next Steps
 
 Experiment with more advanced hyperparameter tuning.
 
