@@ -15,6 +15,9 @@ Compare model performance using key evaluation metrics (RMSE, R² score).
 Provide recommendations on the best forecasting strategy.
 
 ## Dataset
+Here is where the dataset is from: 
+
+https://www.indexmundi.com/commodities/?commodity=fish&months=120
 
 The dataset contains salmon prices from 1994 to 2024 with additional features:
 
